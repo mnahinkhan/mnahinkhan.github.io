@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: null
+title: Welcome
 ---
-# Welcome
+
 Thanks for stopping by!
 
 I'm a bioinformatics researcher by profession. To know more about me, click
