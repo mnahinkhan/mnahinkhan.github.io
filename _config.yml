@@ -33,6 +33,10 @@ linkedin_username: mnahinkhan
 # Build settings
 theme: minima
 
+header_pages:
+    - projects.md
+    - about.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
