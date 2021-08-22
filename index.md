@@ -5,11 +5,10 @@
 layout: home
 title: Welcome
 ---
+![Nahin Khan's Profile](profile.jpg "Art credit: Dona Ferdinando")
+
+## Bioinformatics researcher
 
 Thanks for stopping by!
-
-I'm a bioinformatics researcher by profession. To know more about me, click
-[here](about).
-
-To check out some of the things I've worked on in the past, click
-[here](projects).
+To learn more about me, click [here](about).
+To check out my latest work, click [here](projects).
