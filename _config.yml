@@ -20,6 +20,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Nahin Khan's Homepage
+author: Nahin Khan
 footer_text: >-
     Do contact me through any of the links here! I am always happy to
     hear from people with similar interests :)
