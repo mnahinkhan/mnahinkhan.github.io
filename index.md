@@ -10,5 +10,3 @@ title: Welcome
 ## Bioinformatics researcher
 
 Thanks for stopping by!
-To learn more about me, click [here](about).
-To check out my latest work, click [here](projects).
