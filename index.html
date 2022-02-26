@@ -6,7 +6,7 @@
                 text-align: center;
                 font-family: 'Palatino';
                 margin-top: 40vh;
-                animation-name: fade-in;
+                animation-name: change-color;
                 animation-duration: 2s;
                 animation-delay: 2s;
                 animation-direction: alternate;
@@ -20,10 +20,22 @@
                 color:rgb(95, 96, 92);
             }
 
+            div {
+                animation-name: fade-in;
+                animation-duration: 4s;
+                animation-delay: 0s;
+            }
+
             /* The animation code */
-            @keyframes fade-in {
+            @keyframes change-color {
             from {color: rgb(29, 51, 82);}
             to {color: black;}
+            }
+
+            @keyframes fade-in {
+            0% {opacity: 0;}
+            50% {opacity: 0;}
+            100% {opacity: 1;}
             }
 
 
@@ -40,9 +52,11 @@
 
         <h1>Nahin Khan</h1>
 
+        <div>
         <hr>
         <p>Computer Scienctist</p>
         <p>Molecular Biologist</p>
         <hr>
+        </div>
     </body>
 </html>
