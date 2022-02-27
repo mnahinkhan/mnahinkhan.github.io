@@ -1,91 +1,100 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
-    <head>
-        <title>Nahin Khan</title>
-        <style>
-            * {
-              margin: 0;
-              padding: 0;
-              box-sizing: border-box;
-            }
+  <head>
+    <title>Nahin Khan</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
 
-            .page {
-                animation-name: fade-in;
-                animation-duration: 1s;
-                animation-delay: 0s;
-            }
+      .page {
+        animation-name: fade-in;
+        animation-duration: 1s;
+        animation-delay: 0s;
+      }
 
-            h1 {
-                font-size: 4.4em;
-                text-align: center;
-                font-family: 'Palatino';
-                margin-top: 40vh;
-                animation-name: change-color;
-                animation-duration: 2s;
-                animation-delay: 2s;
-                animation-direction: alternate;
-                animation-iteration-count: infinite;
-            }
+      h1 {
+        font-size: 4.4em;
+        text-align: center;
+        font-family: "Palatino";
+        margin-top: 40vh;
+        animation-name: change-color;
+        animation-duration: 2s;
+        animation-delay: 2s;
+        animation-direction: alternate;
+        animation-iteration-count: infinite;
+      }
 
-            p {
-                font-size: 1em;
-                text-align: center;
-                font-family: Avenir;
-                color:rgb(95, 96, 92);
-                margin: 15px auto;
-            }
+      p {
+        font-size: 1em;
+        text-align: center;
+        font-family: Avenir;
+        color: rgb(95, 96, 92);
+        margin: 15px auto;
+      }
 
-            div {
-                margin: 70px auto;
-                animation-name: fade-in;
-                animation-duration: 4s;
-                animation-delay: 0s;
-            }
+      div {
+        margin: 70px auto;
+        animation-name: fade-in;
+        animation-duration: 4s;
+        animation-delay: 0s;
+      }
 
-            h1::selection, p::selection {
-                background: rgb(237, 237, 222);
-                color: black;
-            }
+      h1::selection,
+      p::selection {
+        background: rgb(237, 237, 222);
+        color: black;
+      }
 
-            p:hover {
-                color: rgb(84, 85, 81);
-            }
+      p:hover {
+        color: rgb(84, 85, 81);
+      }
 
-            /* The animation code */
-            @keyframes change-color {
-            from {color: rgb(29, 51, 82);}
-            to {color: black;}
-            }
+      /* The animation code */
+      @keyframes change-color {
+        from {
+          color: rgb(29, 51, 82);
+        }
+        to {
+          color: black;
+        }
+      }
 
-            @keyframes fade-in {
-            0% {opacity: 0;}
-            50% {opacity: 0;}
-            100% {opacity: 1;}
-            }
+      @keyframes fade-in {
+        0% {
+          opacity: 0;
+        }
+        50% {
+          opacity: 0;
+        }
+        100% {
+          opacity: 1;
+        }
+      }
 
+      body {
+        background-color: rgb(249, 249, 236);
+        font-size: 16pt;
+      }
 
-            body {
-                background-color: rgb(249, 249, 236);
-                font-size: 16pt;
-            }
+      hr {
+        width: 550px;
+        margin: 20px auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <h1>Nahin Khan</h1>
 
-            hr {
-                width: 550px;
-                margin: 20px auto;
-            }
-        </style>
-    </head>
-    <body>
-
-        <div class="page">
-        <h1>Nahin Khan</h1>
-
-        <div>
-        <hr>
+      <div>
+        <hr />
         <p>Computer Scientist</p>
         <p>Molecular Biologist</p>
-        <hr>
-        </div>
-        </div>
-    </body>
+        <hr />
+      </div>
+    </div>
+  </body>
 </html>
