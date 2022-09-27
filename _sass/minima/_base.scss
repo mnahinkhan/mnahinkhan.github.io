@@ -49,9 +49,22 @@ main {
   display: flex; /* Default value of `display` of `main` element is 'inline' in IE 11. */
   align-items: center;
   justify-content: center;
+  animation-name: fade-in;
+  animation-duration: 1s;
+  animation-delay: 0s;
 }
 
-
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
 
 /**
  * Images
