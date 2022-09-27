@@ -19,10 +19,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nahin Khan's Homepage
+title: Nahin Khan
 author: Nahin Khan
 footer_text: >-
-    Do contact me through any of the links here! I am always happy to
+    I am always happy to
     hear from people with similar interests :)
 email: mnk1@alumni.cmu.edu
 baseurl: ""  # the subpath of your site, e.g. /blog

@@ -7,6 +7,4 @@ title: Welcome
 ---
 ![Nahin Khan's Profile](profile.jpg "Art credit: Dona Ferdinando")
 
-## Bioinformatics researcher
-
 Thanks for stopping by!
