@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I am a bioinformatics research assistant at Qatar Computing Research Institute.
-Before getting here I graduated from Carnegie Mellon Univesity with degrees in
+I am a first-year MSc student at ETH Zurich studying Computational Biology and Bioinformatics.
+Before getting here, I was a bioinformatics research assistant at Qatar Computing Research Institute.
+Before that, I graduated from Carnegie Mellon University with degrees in
 Computer Science and Biological Sciences.
 
-# Biologist in love with math
+# Love for math
 My childhood has been defined by a deep fascination and
 love for math. As my math professor used to say: "The universe may die one day
 but mathematical truths; mathematical truths are eternal truths!". I feel
