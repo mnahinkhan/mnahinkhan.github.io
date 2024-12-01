@@ -36,7 +36,6 @@ theme: minima
 
 header_pages:
     - cv.md
-    - projects.md
     - about.md
 
 # Exclude from processing.
