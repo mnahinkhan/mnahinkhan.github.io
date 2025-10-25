@@ -4,10 +4,19 @@ title: About
 permalink: /about/
 ---
 
-I am a first-year MSc student at ETH Zurich studying Computational Biology and Bioinformatics.
-Before getting here, I was a bioinformatics research assistant at Qatar Computing Research Institute.
-Before that, I graduated from Carnegie Mellon University with degrees in
-Computer Science and Biological Sciences.
+I am a MSc student at [ETH Zurich](https://ethz.ch/) studying Computational Biology and Bioinformatics.
+I am interested in multimodal learning in the context of health care. This includes representation learning and generative modelling.
+Currently, I am writing my masters thesis at the [Biomedical Informatics Lab](https://bmi.inf.ethz.ch) on this topic.
+
+Before getting here, I was a bioinformatics research assistant at Qatar
+Computing Research Institute. There, I contributed to many different projects,
+including finding [novel genetic variants that affect ECG derived quantities](https://doi.org/10.1161/JAHA.124.038341).
+
+I graduated from [Carnegie Mellon University](https://cmu.edu) with BSc degrees
+in [Computer Science](https://cs.cmu.edu) and [Biological
+Sciences](https://cmu.edu/mcs). I was recognized as an [Andrew Carnegie
+Scholar](https://www.cmu.edu/engage/give/donor-recognition/andrew-carnegie-society/acs-scholars)
+for my academic achievements and was a [Fifth Year Scholar](https://www.cmu.edu/student-affairs/get-involved/fifth-year/index.html).
 
 # Love for math
 My childhood has been defined by a deep fascination and
