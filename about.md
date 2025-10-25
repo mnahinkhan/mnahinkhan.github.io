@@ -4,19 +4,25 @@ title: About
 permalink: /about/
 ---
 
-I am a MSc student at [ETH Zurich](https://ethz.ch/) studying Computational Biology and Bioinformatics.
-I am interested in multimodal learning in the context of health care. This includes representation learning and generative modelling.
-Currently, I am writing my masters thesis at the [Biomedical Informatics Lab](https://bmi.inf.ethz.ch) on this topic.
+Hey there!
 
-Before getting here, I was a bioinformatics research assistant at Qatar
-Computing Research Institute. There, I contributed to many different projects,
-including finding [novel genetic variants that affect ECG derived quantities](https://doi.org/10.1161/JAHA.124.038341).
+I am a MSc student in Computational Biology and Bioinformatics at [ETH Zurich](https://ethz.ch/).
+My research interests lie in multimodal learning for healthcare, particularly in representation learning and generative modeling.
+I am currently completing my master's thesis at the [Biomedical Informatics Lab](https://bmi.inf.ethz.ch) on this topic.
 
-I graduated from [Carnegie Mellon University](https://cmu.edu) with BSc degrees
-in [Computer Science](https://cs.cmu.edu) and [Biological
-Sciences](https://cmu.edu/mcs). I was recognized as an [Andrew Carnegie
+Before getting here, I was a bioinformatics research assistant at [Qatar
+Computing Research Institute](https://www.hbku.edu.qa/en/qcri). There, I contributed to several projects,
+including finding [novel genetic variants influencing ECG-derived traits](https://doi.org/10.1161/JAHA.124.038341).
+
+I hold dual BSc degrees in [Computer Science](https://cs.cmu.edu) and
+[Biological Sciences](https://cmu.edu/mcs) from [Carnegie Mellon
+University](https://cmu.edu), where I was named an [Andrew Carnegie
 Scholar](https://www.cmu.edu/engage/give/donor-recognition/andrew-carnegie-society/acs-scholars)
-for my academic achievements and was a [Fifth Year Scholar](https://www.cmu.edu/student-affairs/get-involved/fifth-year/index.html).
+and selected as a [Fifth Year
+Scholar](https://www.cmu.edu/student-affairs/get-involved/fifth-year/index.html)
+in recognition of my academic excellence and contributions to the university
+community.
+
 
 # Love for math
 My childhood has been defined by a deep fascination and
