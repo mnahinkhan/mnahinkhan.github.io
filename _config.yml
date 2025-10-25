@@ -27,7 +27,7 @@ footer_text: >-
 email: nakhan@ethz.ch
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: ""  # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mnahinkhan
+# twitter_username: mnahinkhan
 github_username: mnahinkhan
 linkedin_username: mnahinkhan
 
