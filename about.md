@@ -10,6 +10,10 @@ I am a MSc student in Computational Biology and Bioinformatics at [ETH Zurich](h
 My research interests lie in multimodal learning for healthcare, particularly in representation learning and generative modeling.
 I am currently completing my master's thesis at the [Biomedical Informatics Lab](https://bmi.inf.ethz.ch) on this topic.
 
+During my time at ETH, I have also contributed to software development and
+research at [IVIA Lab](https://ivia.ch), where I worked as a full-stack
+engineer on a tool for real-time collaborative knowledge creation between humans and AI.
+
 Before getting here, I was a bioinformatics research assistant at [Qatar
 Computing Research Institute](https://www.hbku.edu.qa/en/qcri). There, I contributed to several projects,
 including finding [novel genetic variants influencing ECG-derived traits](https://doi.org/10.1161/JAHA.124.038341).
@@ -24,16 +28,16 @@ in recognition of my academic excellence and contributions to the university
 community.
 
 
-# Love for math
+## Love for math
 My childhood has been defined by a deep fascination and
 love for math. As my math professor used to say: "The universe may die one day
-but mathematical truths; mathematical truths are eternal truths!". I feel
+but mathematical truths - mathematical truths are eternal truths!". I feel
 blessed to be a part of a species that gained the consciousness necessary to
 realize these truths (yes, I can't get over the fact that the square root of 2
 is _provably_ irrational, can you?).
 
 
-# Chess player
+## Chess player
 Sometimes (very often) I like to play chess online! I used to play sometimes
 when I was young but I never realized it was a deep and well studied field in
 its own right; I just love the fact that there have been studies of this game
